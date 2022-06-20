@@ -1,4 +1,4 @@
-# Script created by @YuriMoskar - https://github.com/YuriMoskar
+# Script created by @Steven-Notridge - https://github.com/Steven-Notridge
 Import-Module ActiveDirectory
 # $ErrorActionPreference = "SilentlyContinue"
 
